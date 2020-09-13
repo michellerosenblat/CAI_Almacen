@@ -1,0 +1,7 @@
+C:\Users\Michu\Documents\GitHub\CAI_Almacen\CAI_Almacen\CAI_Almacen\bin\Debug\CAI_Almacen.exe.config
+C:\Users\Michu\Documents\GitHub\CAI_Almacen\CAI_Almacen\CAI_Almacen\bin\Debug\CAI_Almacen.exe
+C:\Users\Michu\Documents\GitHub\CAI_Almacen\CAI_Almacen\CAI_Almacen\bin\Debug\CAI_Almacen.pdb
+C:\Users\Michu\Documents\GitHub\CAI_Almacen\CAI_Almacen\CAI_Almacen\obj\Debug\CAI_Almacen.csprojAssemblyReference.cache
+C:\Users\Michu\Documents\GitHub\CAI_Almacen\CAI_Almacen\CAI_Almacen\obj\Debug\CAI_Almacen.csproj.CoreCompileInputs.cache
+C:\Users\Michu\Documents\GitHub\CAI_Almacen\CAI_Almacen\CAI_Almacen\obj\Debug\CAI_Almacen.exe
+C:\Users\Michu\Documents\GitHub\CAI_Almacen\CAI_Almacen\CAI_Almacen\obj\Debug\CAI_Almacen.pdb
