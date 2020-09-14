@@ -15,6 +15,7 @@ namespace CAI_Almacen
             Producto arroz = new Producto("arroz", 10, 5);
             Producto zapallitos = new Producto("zapallitos", 80, 5);
             mialmacen.ComproProducto(arroz, 5);
+            zapallitos.Precio = 100;
             mialmacen.ComproProducto(zapallitos, 5);
             try
             {
@@ -32,7 +33,8 @@ namespace CAI_Almacen
                 Console.WriteLine(e.Message);
             }
             mialmacen.VentaProducto(arroz, 5);
-
+            mialmacen.VentaProducto(zapallitos, 5);
+            Console.WriteLine("Vendiste " + zapallitos.Nombre + " a un precio de: " + zapallitos.Precio);
             Console.WriteLine("El stock de " + arroz.Nombre + " es: " + mialmacen.ProductoStock (arroz));
             Console.WriteLine("Lo que tenes que pagar de Ingresos Brutos es: " + mialmacen.IngresosBrutos());
             Console.WriteLine(mialmacen.DevolverInventario());
